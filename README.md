@@ -26,7 +26,7 @@ The data has been anonymized for use in performance analytics and business strat
 
 ## 🛠️ Tools and Methodology
 
-- **Power BI**: Used for data transformation, DAX-based metric calculations, and visual dashboard creation.
+- **Excel**: Used for data transformation , and visual dashboard creation.
 - **Excel**: Applied for pre-processing, data type validation, and sorting of missing or invalid values.
 - **DAX (Data Analysis Expressions)**: Employed to create dynamic calculations such as shipping cost efficiency, sales by region, and order category shares.
 
